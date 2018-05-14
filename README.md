@@ -31,8 +31,10 @@ Things you may want to cover:
 
 ## Documents locations :
 
-### Routes : config/routes
+### Routes : _config/routes_
 ### Model : app/model
 ### Controllers : app/controllers
 ### Views : app/views
+### config/application.rb     -> Bring all the files together.
+### Router : config/routes.rb -> Replaces the router when we interacted with the terminal.
 
