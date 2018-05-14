@@ -22,3 +22,17 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Information :
+
+## accessing :
+* starting server  : $ rails s
+* accessing server : localhost:3000/
+
+## Documents locations :
+
+### Routes : config/routes
+### Model : app/model
+### Controllers : app/controllers
+### Views : app/views
+
